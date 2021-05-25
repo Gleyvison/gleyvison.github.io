@@ -6,7 +6,7 @@
     text-decoration: none;
 }
 
-body {
+body .bg {
     margin: 0 auto;
     height: 100vh;
     background: url(img/comp.png) no-repeat center;
