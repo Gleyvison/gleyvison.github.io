@@ -138,3 +138,7 @@ body .bg {
     height: 3.2017075773746vhx;
     background: #bbb;
 }
+
+.sm a{
+    font-size: 1.4em;
+}
